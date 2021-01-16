@@ -1,0 +1,9 @@
+# For macOS systems
+.DS_Store
+
+# Vivado directory
+*vivado*
+
+# For icarus Verilog
+*.out
+*.vcd
