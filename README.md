@@ -17,7 +17,9 @@
 
 ## About
 
-[HC-SR04](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf) is an ultrasonic distance sensor. It provides 2cm to 400cm of non-contact measurement functionality with a ranging accuracy that can reach up to 3mm. [HC-SR04](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf) uses 5V logic!
+[HC-SR04](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf) is an ultrasonic distance sensor. It provides 2cm to 400cm of non-contact measurement functionality with a ranging accuracy that can reach up to 3mm. 
+
+**[HC-SR04](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf) uses 5V logic!**
 
 ## Modules
 
