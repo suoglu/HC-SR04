@@ -5,6 +5,7 @@
  * File        : hc-sr04.v                          *
  * Author      : Yigit Suoglu                       *
  * Last Edit   : 16/01/2021                         *
+ * Licence     : CERN-OHL-W                         *
  * ------------------------------------------------ *
  * Description : A verilog interface for HC-SR04    *
  *               ultrasonic ranging module. HC-SR04 *

@@ -9,6 +9,7 @@
 5. Test
 6. Status Information
 7. Issues
+8. Licence
 
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-6C488A.svg)](https://gitlab.com/suoglu/hc-sr04)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-3D76C2.svg)](https://github.com/suoglu/HC-SR04)
@@ -79,3 +80,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Speed_of_sound)
 ## Issues
 
 * Keeping `measure` high breaks the module.
+
+## Licence
+
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal
